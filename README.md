@@ -27,6 +27,6 @@ To try the Rock, Paper, Scissors game:
 
 Or play it live here:
 
-🔗 [Live Demo](#)
+🔗 [Live Demo](https://abdallahbenj.github.io/Rock-paper-scissors-game/)
 
 ## Let’s play, review, and strengthen our JavaScript skills! 🎮💡
