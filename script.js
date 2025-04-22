@@ -1,4 +1,4 @@
-/* Rock, Paper, Scissors game */
+/* Rock Paper Scissors game */
 
 console.log("Rock Paper Scissors game");
 
